@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\ALEKSANDR\source\repos\Seti\Server\Server.cpp(33,25): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\ALEKSANDR\source\repos\Seti\Server\Server.cpp(47,29): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  Server.vcxproj -> C:\Users\ALEKSANDR\source\repos\Seti\x64\Debug\Server.exe

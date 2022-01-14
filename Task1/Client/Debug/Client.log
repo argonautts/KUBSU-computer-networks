@@ -1,0 +1,5 @@
+﻿  Client.cpp
+C:\Users\ALEKSANDR\source\repos\Seti\Client\Client.cpp(12,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ALEKSANDR\source\repos\Seti\Client\Client.cpp(42,38): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\ALEKSANDR\source\repos\Seti\Client\Client.cpp(43,36): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  Client.vcxproj -> C:\Users\ALEKSANDR\source\repos\Seti\Debug\Client.exe
