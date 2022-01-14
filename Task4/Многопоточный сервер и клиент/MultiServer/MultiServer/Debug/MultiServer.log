@@ -1,0 +1,4 @@
+﻿  MultiServer.cpp
+C:\Users\Konstantin\source\repos\MultiServer\MultiServer\MultiServer.cpp(41,9): warning C4101: otv: неиспользованная локальная переменная
+C:\Users\Konstantin\source\repos\MultiServer\MultiServer\MultiServer.cpp(60,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MultiServer.vcxproj -> C:\Users\Konstantin\source\repos\MultiServer\Debug\MultiServer.exe
